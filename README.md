@@ -8,7 +8,7 @@ After more than 3 years using arch linux and installing the complete system manu
    ```
 1) Download the script into an Arch iso.
    ```sh
-   curl -Lo yabai.sh https://git.io/
+   curl -Lo yabai.sh https://git.io/JU3F3
    ```
 2) Modify as you wish
 3) run the script
